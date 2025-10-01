@@ -1,10 +1,5 @@
 # Hi, I'm `Arin Shukla` 👋
 
-<p align="center">
-  <img src="https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-54f4-61fa-8a54-491e7826a440/raw?se=2025-10-01T05%3A14%3A35Z&sp=r&sv=2024-08-04&sr=b&scid=ff821a22-7e4e-58f8-91ae-d3e2023789cf&skoid=f8b66c09-1aa0-4801-9884-173c5cef2b8c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-30T22%3A23%3A11Z&ske=2025-10-01T22%3A23%3A11Z&sks=b&skv=2024-08-04&sig=QLcNOR0HDVNu0qeY5z/1huZtMQHJ7KtEPuec/m3kpRY%3D" width="600" alt="Thinking about DSA"/>
-</p>
----
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arin-shukla-2383ba321) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github\&logoColor=white)](https://your-portfolio.example) [![Codeforces](https://img.shields.io/badge/-Codeforces-1f2833?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/STARS_RAY56) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/stars_ray)
 
 ## 🚀 About Me
