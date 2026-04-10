@@ -1,6 +1,6 @@
 # About
 
-Aspiring Backend Developer
+ Backend Developer
 
 - Competitive Programming
 
