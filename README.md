@@ -26,8 +26,6 @@ I build fast, reliable web apps and solve algorithmic puzzles. I'm a competitive
   
 </p>
 
-> Tip: reorder badges to highlight the stack you want employers to see first.
-
 ---
 <!-- Codeforces Card -->
 <p align="center">
