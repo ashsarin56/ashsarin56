@@ -7,8 +7,6 @@
 I'm **Arin Shukla** (github: `ashsarin56`).
 
 I build fast, reliable web apps and solve algorithmic puzzles. I'm a competitive programmer and a Backend Developer.
-* 🌱 Learning: **Next.js**, Advanced DSA, and system design.
-* 💬 Ask me about: competitive programming (C++), full-stack web dev (MERN/Next.js), and chess.
 
 ---
 
