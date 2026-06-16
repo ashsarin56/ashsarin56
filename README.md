@@ -1,6 +1,6 @@
 # Hi, I'm `Arin Shukla` 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arin-shukla-2383ba321) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github\&logoColor=white)](https://your-portfolio.example) [![Codeforces](https://img.shields.io/badge/-Codeforces-1f2833?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/STARS_RAY56) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/stars_ray)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arin-shukla-2383ba321) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github\&logoColor=white)](https://my-portfolio-xi-virid-72.vercel.app/) [![Codeforces](https://img.shields.io/badge/-Codeforces-1f2833?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/STARS_RAY56) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/stars_ray)
 
 ## 🚀 About Me
 
