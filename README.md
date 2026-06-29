@@ -33,8 +33,6 @@ I build fast, reliable web apps and solve algorithmic puzzles. I'm a competitive
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=STARS_RAY56&theme=tokyonight" alt="Codeforces Stats"/>
   </a>
 </p>
-## 📊 GitHub Stats & Trophies
-
 
 <!-- GitHub readme stats -->
 
