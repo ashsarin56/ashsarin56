@@ -36,8 +36,6 @@ I build fast, reliable web apps and solve algorithmic puzzles. I'm a competitive
 
 <!-- GitHub readme stats -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashsarin56\&show_icons=true\&theme=tokyonight\&count_private=true)
-
 <!-- Top languages -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashsarin56\&layout=compact\&theme=tokyonight)
