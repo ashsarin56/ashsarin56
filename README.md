@@ -1,6 +1,6 @@
 # Hi, I'm `Arin Shukla` 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arin-shukla-2383ba321) [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github\&logoColor=white)](https://my-portfolio-xi-virid-72.vercel.app/) [![Codeforces](https://img.shields.io/badge/-Codeforces-1f2833?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/STARS_RAY56) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/stars_ray)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arin-shukla-2383ba321) [![Portfolio](https://img.shields.io/badge/-Portfolio-[...]
 
 ## 🚀 About Me
 
@@ -23,6 +23,9 @@ I build fast, reliable web apps and solve algorithmic puzzles. I'm a competitive
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-MERN-7B68EE?logo=stack&logoColor=white" alt="MERN"/>
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" alt="C"/>
   
 </p>
 
