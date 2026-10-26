@@ -1,5 +1,4 @@
-# Hi, I'm `Arin Shukla` 👋
-
+STARS_RAY56 <3
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arin-shukla-2383ba321) [![Portfolio](https://img.shields.io/badge/-Portfolio-6f42c1?logo=googlechrome&logoColor=white)](https://github.com/ashsarin56)
 <!-- Codeforces Card -->
 <p align="center">
